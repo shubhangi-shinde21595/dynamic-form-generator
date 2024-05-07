@@ -1,3 +1,7 @@
+# how to download and run
+
+download dynamic-form-generator project from the link "https://github.com/shubhangi-shinde21595/dynamic-form-generator/tree/main", download zip then unzip project, open dynamic-form-generator folder in VS-code or other editor do "npm install" and then for run commamd "npm start".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
